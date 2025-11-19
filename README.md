@@ -2,6 +2,7 @@
   <img 
     src="https://i.ibb.co/4Z2SN7m2/ikbal-mondal-github-banner-image-1920-x-480-px.jpg" 
     width="1200" 
+    height='480'
     alt="Ikbal Mondal GitHub Banner"
 />
 </p>
