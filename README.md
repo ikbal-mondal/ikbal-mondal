@@ -1,9 +1,8 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/pvtLm4Ws/ikbal-mondal-github-cover.jpg"
+    src="https://raw.githubusercontent.com/chatgpt-storage/banners/main/ikbal_mondal_github_cover.jpg"
     alt="Ikbal Mondal GitHub Banner"
     width="100%"
-    style="max-height:480px; object-fit: cover;"
   />
 </p>
 
