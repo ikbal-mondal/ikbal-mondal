@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/4Z2SN7m2/ikbal-mondal-github-banner-image-1920-x-480-px.jpg"
+    src="https://i.ibb.co/pvtLm4Ws/ikbal-mondal-github-cover.jpg"
     alt="Ikbal Mondal GitHub Banner"
     width="100%"
     style="max-height:480px; object-fit: cover;"
