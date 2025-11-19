@@ -40,7 +40,7 @@ I also create **web development tutorials on YouTube**, teaching HTML, CSS, Java
 
 ### **Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" />
 </p>
 
 
