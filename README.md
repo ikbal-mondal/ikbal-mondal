@@ -4,10 +4,9 @@
     width="100%"
   />
 </p>
----
 
 # 👋 Hi, I'm **Ikbal Mondal**  
-### 💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | ⚡ Fast Learner
+### 💻 MERN Stack Developer ⚡ Fast Learner
 
 ### 👨‍💻 About Me
 - 🚀 Passionate about **Front-End & MERN Development**  
