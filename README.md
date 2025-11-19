@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.postimg.cc/JzWr6pz6/ikbal-mondal-github-cover.jpg"
+    src="https://i.postimg.cc/Tw8v1wWT/ikbal-mondal-github-banner-image-(1920-x-480-px).jpg"
     width="100%"
   />
 </p>
